@@ -1,0 +1,7 @@
+[package]
+name = "learn"
+version = "0.1.0"
+authors = ["mode777 <mode7@gmx.net>"]
+
+[dependencies]
+glium = "*"
